@@ -9,10 +9,19 @@ The admin of the system can perform all the operations on the website. Once he/s
 * Veterinary Service
 * Pet Boarding Places
 
-## Technologies
+## Language 
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
+![HTML](https://img.shields.io/badge/Language-HTML-green)
+![CSS](https://img.shields.io/badge/Language-CSS-blue)
+<!-- ![Design](https://img.shields.io/badge/Design-MaterialUI-blue) -->
+
+## Technology 
 * ![ReactJs](https://img.shields.io/badge/FrontEnd-ReactJs-blue)
 * ![SpringBoot](https://img.shields.io/badge/BackEnd-Spring_Boot-green)
 * ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+
+<!-- My contribution to the project was: -->
+
 
 ## How to get started
 ### Prerequisites
