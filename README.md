@@ -26,12 +26,12 @@ The admin of the system can perform all the operations on the website. Once he/s
 ## How to get started
 ### Prerequisites
 #### Softwares:
-1. IntelliJ Idea IDE
-2. VS Code IDE
+- IntelliJ Idea IDE
+- VS Code IDE
 
 #### Dependencies 
-1. node
-2. React
+- node
+- React
 
 ### Procedure of setting up and run the project
 #### Frontend
