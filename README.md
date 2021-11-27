@@ -20,8 +20,15 @@ The admin of the system can perform all the operations on the website. Once he/s
 * ![SpringBoot](https://img.shields.io/badge/BackEnd-Spring_Boot-green)
 * ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 
-<!-- My contribution to the project was: -->
-
+My contribution to the project was:
+- Implemented the Admin Home Page
+- Pet Boarding Place details user view 
+- Search Pet Boarding Places as a user
+- Pet Boarding Place details admin view
+- Add new Pet Boarding Place
+- Update Pet Boarding Place
+- Delete Pet Boarding Place
+- Generate Report for Pet Boarding Place
 
 ## How to get started
 ### Prerequisites
