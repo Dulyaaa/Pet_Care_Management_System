@@ -30,6 +30,20 @@ The admin of the system can perform all the operations on the website. Once he/s
 - Delete Pet Boarding Place
 - Generate Report for Pet Boarding Place
 
+## Screenshots of my part of working project:
+
+| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/144055189-0f173953-5c10-43f9-a7b2-f630bd3d893a.png"> | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/144055783-975a2a1d-0c07-4974-931e-4ee4dd17f81b.png"> 
+|:--:|:--:|
+| *`figure 1.1: User View`* | *`figure 1.2: Admin View`* | 
+
+| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/144056895-f235030b-76c3-40ca-8a46-8b1aea91b8d6.png">  | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/144056290-937300fe-8bf4-45a9-bb17-5398fdfb03a2.png"> 
+|:--:|:--:|
+| *`figure 1.3: Add New Place Details`* | *`figure 1.4: Update Place Details`* | 
+
+| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/144064015-e0745f67-ee82-44d6-abbb-4146a6c87971.png">  | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/144055443-31f63669-5368-49bf-adfc-01468e1c5745.png"> 
+|:--:|:--:|
+| *`figure 1.5: Generate Report By Place`* | *`figure 1.6: Admin Dashboard`* | 
+
 ## How to get started
 ### Prerequisites
 #### Softwares:
