@@ -1,0 +1,57 @@
+#adopt {
+	padding: 60px 0;
+    background-color: rgb(4, 186, 241);
+}
+#adopt h3 {
+	font-size: 22px;
+	margin: 0 0 20px 0;
+}
+#adopt h2 {
+	position: relative;
+	margin-bottom: 15px;
+	margin-left: 80px;
+	padding-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 'bold';
+}
+#adopt h2::after {
+	position: absolute;
+	content: "";
+	background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	height: 4px;
+	width: 150px;
+	bottom: 0;
+	left: 0;
+}
+#adopt .adopt-text li {
+	margin-bottom: 6px;
+	margin-left: 6px;
+	list-style: none;
+	padding: 0;
+}
+#adopt .adopt-text li:before {
+	content: '\f00c';
+	font-family: 'FontAwesome';
+	color: #5ca9fb;
+	font-size: 11px;
+	font-weight: 300;
+	padding-right: 8px;
+}
+#adopt img {
+	/* width: 300px; */
+	/* margin-top: 10px; */
+	/* border-right: 0; */
+	/* box-shadow: 0 0 50px rgba(0,0,0,0.06); */
+	background-color: #d4c009e3;
+	border-bottom-left-radius: 30%;
+	border-bottom-right-radius: 30%;
+	border-top-left-radius: 60%;
+	border-top-right-radius: 60%;
+}
+#adopt p {
+	color: white;
+	line-height: 24px;
+	margin: 30px 80px;
+	font-size: large;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
